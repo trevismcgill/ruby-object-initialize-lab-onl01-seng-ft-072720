@@ -8,6 +8,6 @@ def initialize(name, breed)
   else
     @breed = breed
 end
-
+end
 
 end

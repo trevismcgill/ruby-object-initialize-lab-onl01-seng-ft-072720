@@ -8,5 +8,7 @@ def initialize(name, breed)
   if breed == nil
     @breed = "Mutt"
   end
+  
 end
 end
+
